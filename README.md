@@ -1,4 +1,4 @@
-Displej 
+Displej (8x 7-segmentových číslic) 
 	XX:XX(živý čas - sekundy:setiny) YY:YY(kolo - sekundy:setiny) => do 90 sekund, autostop
 	Error message pro více spínačů
 	Stavová RGB LED - LED17, R - konec, G - běží, B - pause
@@ -14,4 +14,8 @@ Spínače
 	LED nad spínači - uložení mezičasu
 
 
-Potřebné moduly - Counter, Debouncer# Digital-Stopwatch
+Potřebné moduly - Counter, Debouncer
+
+Jan - Umělec
+Petr - Kód, github
+Vojtěch - Kód
