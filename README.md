@@ -24,3 +24,5 @@ Jan - Umělec
 Petr - Kód, github
 
 Vojtěch - Kód
+
+Claude AI, ChatGPT - Korekce, pomoc při potížích 
