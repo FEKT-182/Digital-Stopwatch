@@ -1,0 +1,40 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Thu Apr 23 17:49:35 2026
+# Process ID         : 11132
+# Current directory  : C:/Users/270212/Downloads/Digital-Stopwatch/Digital-Stopwatch-modified/stopwatch
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent9752 C:\Users\270212\Downloads\Digital-Stopwatch\Digital-Stopwatch-modified\stopwatch\stopwatch.xpr
+# Log file           : C:/Users/270212/Downloads/Digital-Stopwatch/Digital-Stopwatch-modified/stopwatch/vivado.log
+# Journal file       : C:/Users/270212/Downloads/Digital-Stopwatch/Digital-Stopwatch-modified/stopwatch\vivado.jou
+# Running On         : PC-711
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i5-14500
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 20
+# Host memory        : 16833 MB
+# Swap memory        : 2550 MB
+# Total Virtual      : 19383 MB
+# Available Virtual  : 11693 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/270212/Downloads/Digital-Stopwatch/Digital-Stopwatch-modified/stopwatch/stopwatch.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+wait_on_run impl_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/270212/Downloads/Digital-Stopwatch/Digital-Stopwatch-modified/stopwatch/stopwatch.runs/impl_1/top.bit} [get_hw_devices xc7a50t_0]
+current_hw_device [get_hw_devices xc7a50t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a50t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a50t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a50t_0]
+set_property PROGRAM.FILE {C:/Users/270212/Downloads/Digital-Stopwatch/Digital-Stopwatch-modified/stopwatch/stopwatch.runs/impl_1/top.bit} [get_hw_devices xc7a50t_0]
+program_hw_devices [get_hw_devices xc7a50t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a50t_0] 0]
