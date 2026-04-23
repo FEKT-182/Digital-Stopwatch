@@ -19,10 +19,10 @@ Spínače
 
 Potřebné moduly - Counter, Debouncer
 
-Jan - Umělec, kód
+Jan - Plakát, kód
 
-Petr - Kód, github
+Petr - Kód, github, simulace
 
-Vojtěch - Kód, simulace
+Vojtěch - Kód, schéma
 
 Claude AI, ChatGPT - Korekce, pomoc při potížích 
