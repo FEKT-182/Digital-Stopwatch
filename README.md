@@ -21,8 +21,8 @@ Potřebné moduly - Counter, Debouncer
 
 Jan - Plakát, kód
 
-Petr - Kód, github, simulace
+Petr - Kód, github
 
-Vojtěch - Kód, schéma
+Vojtěch - Kód, schéma, simulace
 
 Claude AI, ChatGPT - Korekce, pomoc při potížích 
