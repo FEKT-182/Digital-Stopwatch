@@ -49,7 +49,7 @@ Propojuje všechny výše uvedené komponenty, rozvádí 100MHz hodinový signá
 
 Ostatní
 	
-Jan - Plakát, kód
+Jan - Plakát, kód, video
 
 Petr - Kód, github
 
