@@ -1,3 +1,6 @@
+Ovládání
+
+
 Displej (8x 7-segmentových číslic) 
 	
 	XX:XX(živý čas - sekundy:setiny) YY:YY(kolo - sekundy:setiny) => do 90 sekund, autostop
@@ -17,6 +20,7 @@ Spínače
 	LED nad spínači - uložení mezičasu
 
 Komponenty
+
 
 [Counter](stopwatch/stopwatch.srcs/sources_1/imports/Downloads/counter.vhd)
 
