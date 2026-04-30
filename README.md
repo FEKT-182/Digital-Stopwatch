@@ -5,7 +5,7 @@ Displej (8x 7-segmentových číslic)
 	
 	XX:XX(živý čas - sekundy:setiny) YY:YY(kolo - sekundy:setiny) => do 90 sekund, autostop
 	Error message pro více spínačů
-	Stavová RGB LED - LED17, R - pause, G - běží, B - konec
+	Stavová RGB LED - LED16, R - pause, G - běží, B - konec
 
 Tlačítka
 	
